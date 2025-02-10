@@ -1,0 +1,25 @@
+{
+  "auth": "zef:tbrowder",
+  "authors": [
+    "Tom Browder"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "Provides a collection of Raku code to create or manipulate PDF documents",
+  "license": "Artistic-2.0",
+  "name": "pdf-tools",
+  "perl": "6.d",
+  "provides": {
+    "pdf-tools": "lib/pdf-tools.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}

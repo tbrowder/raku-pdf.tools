@@ -1,0 +1,29 @@
+=begin pod
+
+=head1 NAME
+
+B<pdf-tools> - Provides a collection of Raku code to create or manipulate PDF documents
+
+=head1 SYNOPSIS
+
+=begin code :lang<raku>
+
+use pdf-tools;
+
+=end code
+
+=head1 DESCRIPTION
+
+B<pdf-tools> is ...
+
+=head1 AUTHOR
+
+Tom Browder <tbrowder@acm.org>
+
+=head1 COPYRIGHT AND LICENSE
+
+© 2025 Tom Browder
+
+This library is free software; you may redistribute it or modify it under the Artistic License 2.0.
+
+=end pod
