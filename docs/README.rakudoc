@@ -2,7 +2,7 @@
 
 =head1 NAME
 
-B<pdf-tools> - Provides a collection of Raku code to create or manipulate PDF documents
+B<pdf-tools> - Provides a collection of Raku tools to create or manipulate PDF documents
 
 =head1 SYNOPSIS
 
